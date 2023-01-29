@@ -1,0 +1,26 @@
+.hero {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.hero__container {
+    padding-top: 22px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hero__content {
+    width: 40%;
+}
+
+.hero__img img {
+    width:1046px;
+    position: absolute;
+    left: calc(50% + 50px);
+    top: -200px;
+}
+
+
+
+  

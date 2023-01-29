@@ -1,0 +1,23 @@
+{
+  "name": "skilled-elearning-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BePalm89/skilled-elearning-landing-page.git"
+  },
+  "author": "BePalm89",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BePalm89/skilled-elearning-landing-page/issues"
+  },
+  "homepage": "https://github.com/BePalm89/skilled-elearning-landing-page#readme",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}

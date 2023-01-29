@@ -1,0 +1,14 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 25%);
+    gap: 5rem;
+}
+
+.grid-item  {
+    height: 30rem;
+    background-color: $color-white;
+    border-radius: 15px;
+    box-shadow: 4px 6px rgba($color-secondary-dark, 0.04);
+    text-align: left;
+    padding: 4rem 2rem;
+}
